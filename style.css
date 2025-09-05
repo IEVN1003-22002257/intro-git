@@ -1,0 +1,32 @@
+{
+    margin: 0px;
+    padding: 0px:
+
+}
+body{
+    background-color: aqua;
+    margin: 0px;
+    font-family: sans-serif;
+}
+header{
+    background-color: blueviolet;
+    height: 100px;
+    padding: 20px;
+
+}
+img{
+    height: 50px;
+}
+h2{
+    font-family: cursive;
+    font-size: 2rem;
+
+}
+nav{
+    display: flex;
+}
+nav a{
+    font-weight: 600
+    padding-right: 10px;
+
+}
